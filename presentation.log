@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.14)  7 MAY 2019 10:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.14)  7 MAY 2019 15:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -133,22 +133,23 @@ This may cause the page layout to be inconsistent, however.
 
 [1{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2]
+] [2] [3]
 (./presentation.aux) ) 
 Here is how much of TeX's memory you used:
- 942 strings out of 492616
- 12818 string characters out of 6132783
- 83805 words of memory out of 5000000
- 4903 multiletter control sequences out of 15000+600000
- 5523 words of font info for 17 fonts, out of 8000000 for 9000
+ 945 strings out of 492616
+ 12847 string characters out of 6132783
+ 85805 words of memory out of 5000000
+ 4904 multiletter control sequences out of 15000+600000
+ 7207 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,10n,43p,2177b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,10n,43p,1168b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<
-c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on presentation.pdf (2 pages, 22345 bytes).
+c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2018/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on presentation.pdf (3 pages, 32655 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
