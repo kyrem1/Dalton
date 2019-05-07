@@ -1,15 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1557181045 "presentation.tex" "presentation.pdf" "presentation" 1557181710
+["pdflatex"] 1557244603 "presentation.tex" "presentation.pdf" "presentation" 1557244632
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1552607221 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1552607716 3332 103109f5612ad95229751940c61aada0 ""
-  "c:/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1552611375 2172 fd0c924230362ff848a33632ed45dc23 ""
-  "c:/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1552611375 4524 6bce29db5bc272ba5f332261583fee9c ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1552611375 2124 2601a75482e9426d33db523edf23570a ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1552611375 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1552606545 1288 655e228510b4c2a1abe905c368440826 ""
-  "c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1552611376 44729 fea0975e20ec51c992338362f05f1146 ""
   "c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1552611376 46026 687528a208fbfc1f00832bb96cccebbb ""
-  "c:/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf" 1552611376 1372 788387fea833ef5963f4c5bffe33eb89 ""
   "c:/texlive/2018/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1552611376 1380 0ea3a3370054be6da6acd929ec569f06 ""
   "c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1552608137 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty" 1552609609 1300 96620a7d94bc0ceb261d968770ce8315 ""
@@ -26,9 +22,9 @@
   "c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1552612218 3265573 655ac40406f2c37c0d9078d533adef20 ""
   "c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1552612435 4223222 5ebd38102a92144674fa7e7de0ce21cd ""
   "c:/texlive/2018/texmf.cnf" 1552612180 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "presentation.aux" 1557181046 8 a94a2480d3289e625eea47cd1b285758 ""
-  "presentation.tex" 1557181709 4368 bb2c980cb4484520c412da18e773d858 ""
+  "presentation.aux" 1557244604 8 a94a2480d3289e625eea47cd1b285758 ""
+  "presentation.tex" 1557244632 4742 4106c1be6b4711c632baa6734e6e5507 ""
   (generated)
-  "presentation.log"
-  "presentation.pdf"
   "presentation.aux"
+  "presentation.pdf"
+  "presentation.log"

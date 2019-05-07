@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.14)  6 MAY 2019 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.14)  7 MAY 2019 10:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -125,8 +125,6 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 14.49998pt.
@@ -138,20 +136,19 @@ This may cause the page layout to be inconsistent, however.
 ] [2]
 (./presentation.aux) ) 
 Here is how much of TeX's memory you used:
- 946 strings out of 492616
- 12859 string characters out of 6132783
- 82805 words of memory out of 5000000
- 4905 multiletter control sequences out of 15000+600000
- 7149 words of font info for 19 fonts, out of 8000000 for 9000
+ 942 strings out of 492616
+ 12818 string characters out of 6132783
+ 83805 words of memory out of 5000000
+ 4903 multiletter control sequences out of 15000+600000
+ 5523 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,10n,43p,1819b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,10n,43p,2177b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<
-c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on presentation.pdf (2 pages, 33707 bytes).
+c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on presentation.pdf (2 pages, 22345 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
